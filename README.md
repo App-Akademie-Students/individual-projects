@@ -48,7 +48,7 @@ Mögliche Schwerpunkte sind zum Beispiel:
 - Datenbanken
 - Testing
 - Full-Stack Development
-- oder alle möglichen Kombinationen
+- oder auch alle möglichen Kombinationen
 
 ## Eigene Projektideen
 
